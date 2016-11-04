@@ -6,7 +6,7 @@ Introduction
 
 This is an attempt at summarizing Markdown syntax with Markdown. This is a summarized version of [Basics page in Daring Fireball][basics].
 
-**Note:** This document is inspired by advice shown in [Daring Fireball][main] :
+**Note:** This document is inspired by advice given in [Daring Fireball][main] :
 > The best way to get a feel for Markdown’s formatting syntax is simply to look at a Markdown-formatted document.
 > For example, you can view the Markdown source for the article text on this [page][main_markdown].
 
