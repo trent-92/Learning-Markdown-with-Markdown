@@ -4,7 +4,7 @@ Learning-Markdown-with-Markdown
 Introduction
 ------------
 
-This is an attempt at summarizing Markdown syntax with Markdown. This [page][basics] will be studied and summarized while writing this document.
+This is an attempt at summarizing Markdown syntax with Markdown. This is a summarized version of [page][basics].
 
 **Note:** This document is inspired by advice shown in [Daring Fireball][main] :
 > The best way to get a feel for Markdown’s formatting syntax is simply to look at a Markdown-formatted document.
@@ -13,8 +13,6 @@ This is an attempt at summarizing Markdown syntax with Markdown. This [page][bas
 [basics]: https://daringfireball.net/projects/markdown/basics             "Markdown Basics"
 [main]: https://daringfireball.net/projects/markdown/                     "Markdown Main"
 [main_markdown]: https://daringfireball.net/projects/markdown/index.text  "Markdown Main in Markdown"
-
-OK, Let's Start!
 
 ## Headers & Blockquotes & Emphasis
 
