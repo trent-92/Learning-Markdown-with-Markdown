@@ -25,8 +25,8 @@ This equals
 
     <h1>Header</h1>
     
-Header
-======
+Example
+=======
   
 ### Second Level Header :
 
@@ -37,8 +37,8 @@ This equals
 
     <h2>Header</h2>
     
-Header
-------
+Example
+-------
 
 ### Third Level Header :
 
@@ -48,7 +48,7 @@ This equals
 
     <h3>Header</h3>
     
-### Header
+### Example
 
 ### Blockquote
 
