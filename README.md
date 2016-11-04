@@ -167,19 +167,19 @@ This equals
 
 ### Image
 
-    ![something text](https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_284x96dp.png "Google Logo")
+    ![alt text](https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_284x96dp.png "Google Logo")
     
 or
 
-    ![something text][id]
+    ![alt text][id]
     
     [id]: https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_284x96dp.png "Google Logo"
     
 This equals
 
-    <img src="https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_284x96dp.png" alt="something text" title="Google Logo" />
+    <img src="https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_284x96dp.png" alt="alt text" title="Google Logo" />
     
-![something text](https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_284x96dp.png "Google Logo")
+![something text](https://constellation.standup2cancer.org/assets/star-facbd92545e601590a94bd3fd813f643.png "Star")
 
 ### Code
 
