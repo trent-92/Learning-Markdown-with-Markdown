@@ -4,7 +4,7 @@ Learning-Markdown-with-Markdown
 Introduction
 ------------
 
-This is an attempt at summarizing Markdown syntax with Markdown. This is a summarized version of [page][basics].
+This is an attempt at summarizing Markdown syntax with Markdown. This is a summarized version of [Basics page in Daring Fireball][basics].
 
 **Note:** This document is inspired by advice shown in [Daring Fireball][main] :
 > The best way to get a feel for Markdown’s formatting syntax is simply to look at a Markdown-formatted document.
